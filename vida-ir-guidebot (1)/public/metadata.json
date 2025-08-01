@@ -1,0 +1,6 @@
+{
+  "name": "Vida IR-GuideBot",
+  "description": "An AI-powered chatbot that provides on-call cybersecurity staff with instant, contextual guidance during a suspected breach. This is the responsive web UI for the system.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

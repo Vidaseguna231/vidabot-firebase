@@ -1,0 +1,23 @@
+
+{
+  "name": "vidabot-backend",
+  "version": "1.0.0",
+  "description": "Secure backend for Vida IR-GuideBot",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/secret-manager": "^5.5.0",
+    "@google-cloud/storage": "^7.11.0",
+    "@google/genai": "^1.11.0",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.2.0",
+    "firebase-admin": "^12.1.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
